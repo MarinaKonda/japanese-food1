@@ -1,0 +1,60 @@
+body{
+    margin:0%
+}
+
+h1{
+    padding: 10px;
+    margin:0px;
+}
+
+.hehe{
+    padding: 10px;
+    margin: 0;
+}
+
+header{
+    height: 500px;/*высота блока*/
+    background-color: darksalmon; /*цвет света*/
+    color:darkred; /*цвет текста*/
+    text-align: center;
+    font: size 20px;
+
+    background-image:url(https://sneg.top/uploads/posts/2023-04/1680503702_sneg-top-p-anime-kartinki-krasivie-oboi-krasivo-18.png) ;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    font-family: "cambria math";
+    text-shadow: 1px 5px 20px black;
+}
+
+main{  
+    height: 1800px;/*высота блока*/
+    background-color: rgb(255, 209, 194); /*цвет света*/
+    color:darkred; /*цвет текста*/
+    text-align: center;
+    font-size:30px ;
+    display: flex;
+}
+.left{
+    width: 50%;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.right{
+    width: 50%;
+    font-size: 20px;
+    text-align: center;
+    padding: 50px;
+    margin:50px;
+
+}
+
+footer{   
+    height:100%;/*высота блока*/
+    background-color: rgb(118, 76, 62); /*цвет света*/
+    color:rgb(230, 116, 116); /*цвет текста*/
+    text-align: center;
+    font-size:30px ;
+}
